@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 15, 2025 at 12:27 PM
+-- Generation Time: Sep 15, 2025 at 12:56 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -40,11 +40,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `userid`, `role`) VALUES
-(1, 'Apurbo', '4321', '23-50045-1', 'User'),
-(2, 'Biswas', '1234', '23-50001-1', 'Admin'),
+(1, 'Momo', '4321', '23-50045-1', 'User'),
+(2, 'mmm', '1234', '23-50001-1', 'Admin'),
 (3, 'Addie', '1234', '23-50013-1', 'Admin'),
 (4, 'Brad', '2345', '23-50014-1', 'User'),
-(5, 'Kamrul', '1234', '22-45834-3', 'User');
+(5, 'aaaa', '1234', '22-45834-3', 'User');
 
 --
 -- Indexes for dumped tables
